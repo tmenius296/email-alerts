@@ -1,0 +1,4 @@
+.OptionContainer {
+    display: flex;
+    flex-direction: column;
+}
