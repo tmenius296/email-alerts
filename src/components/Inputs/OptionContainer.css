@@ -1,4 +1,7 @@
 .OptionContainer {
     display: flex;
     flex-direction: column;
+    margin: 0;
+    align-content: left;
 }
+
